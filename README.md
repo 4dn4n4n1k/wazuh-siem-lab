@@ -31,8 +31,6 @@ Wazuh successfully detected:
 - Threat detection
 - Cloud security setup
 
-## 📸 Screenshots
-(attach images here)
 
 ## 🚀 Future Improvements
 - Add Windows agent
